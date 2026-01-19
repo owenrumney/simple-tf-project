@@ -1,0 +1,4 @@
+{
+  "enable_encryption": true,
+  "ssl_policy": "TLSv1.2"
+}

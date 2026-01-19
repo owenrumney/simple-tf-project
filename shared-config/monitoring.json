@@ -1,0 +1,4 @@
+{
+  "retention_days": 30,
+  "alarm_threshold": 80
+}

@@ -1,0 +1,4 @@
+{
+  "bucket_versioning": true,
+  "lifecycle_days": 90
+}
